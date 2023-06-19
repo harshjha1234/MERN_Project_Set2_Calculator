@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MERN_Project_Set2_Calculator/static/css/main.58bd5045.css",
+    "main.js": "/MERN_Project_Set2_Calculator/static/js/main.79660d7e.js",
+    "index.html": "/MERN_Project_Set2_Calculator/index.html",
+    "main.58bd5045.css.map": "/MERN_Project_Set2_Calculator/static/css/main.58bd5045.css.map",
+    "main.79660d7e.js.map": "/MERN_Project_Set2_Calculator/static/js/main.79660d7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58bd5045.css",
+    "static/js/main.79660d7e.js"
+  ]
+}
